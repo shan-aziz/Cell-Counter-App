@@ -1,0 +1,6 @@
+Data description:
+
+This is a subset of VGG dataset. There are 20
+images with a 256x256 resolution that contain simulated
+bacterial cells from fluorescence-light microscopy. Each image contains 174 ±64 cells which overlap
+and are at various focal distances simulating real life imaging with a microscope.
